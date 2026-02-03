@@ -4,5 +4,7 @@
     "description": "Test",
     "originalLanguage": "en"
   },
-  "className": "ZCL_SAJC_TEST"
+  "generalInformation": {
+    "className": ""
+  }
 }
